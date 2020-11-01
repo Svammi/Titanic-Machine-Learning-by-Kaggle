@@ -1,4 +1,4 @@
-# Titanic-Machine-Learning-by-Kaggle
+# Titanic: Machine Learning from Disaster by Kaggle
 
 Задача:
 Построить алгоритм, используя машинное обучение, для определения смертности пассажиров на корабле "Титаник".
